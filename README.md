@@ -1,0 +1,2 @@
+# Kiddo
+School Management Application
